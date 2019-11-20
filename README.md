@@ -4,10 +4,8 @@ This application is a newsreader that calls the Hackernews Api. This project was
 
 ## Steps to use this
 
-## Clone the Project files
-
-## CD into the folder 
-
-## run npm install 
+ 1. Clone the Project files
+ 2. CD into the folder 
+ 3. run npm install 
 
 ## There You go 
